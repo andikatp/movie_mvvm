@@ -1,0 +1,14 @@
+{
+  "Login": "Login",
+  "UsernameValidatorNull": "Please enter your username",
+  "Password": "Password",
+  "PasswordValidatorNull": "Please enter your password",
+  "LoginErrorMessage": "Please check your username and password!",
+  "SearchMessage": "Start Searching...",
+  "About": "About",
+  "Logout": "Logout",
+  "InitialSaved": "Opps, you got nothing, try adding some!",
+  "TryAgain": "Try Again",
+  "NoInternetConnection": "Please check your connection",
+  "OurStory": "Our Story"
+}

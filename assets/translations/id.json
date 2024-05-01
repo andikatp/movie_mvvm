@@ -1,0 +1,14 @@
+{
+  "Login": "Masuk",
+  "UsernameValidatorNull": "Mohon masukkan sebuah username",
+  "Password": "Kata Sandi",
+  "PasswordValidatorNull": "Mohon masukkan kata sandi anda",
+  "LoginErrorMessage": "Mohon periksa username dan password anda!",
+  "SearchMessage": "Mulai Pencarian...",
+  "About": "Tentang",
+  "Logout": "Keluar",
+  "InitialSaved": "Opps, sepertinya anda harus menambahkan film favorite!",
+  "TryAgain": "Coba Lagi",
+  "NoInternetConnection": "Mohon periksa koneksi internet anda",
+  "OurStory": "Cerita Kami"
+}
